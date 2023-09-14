@@ -2,9 +2,7 @@
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # write down your info and the answers for TASK 0 as COMMENTS here
-# name: Yeung Yu San
-# student ID: 20861929
-# email: ysyeungad@connect.ust.hk
+
 # TASK 0:
 # Question 1: (5*8 + 6)*32 = 1472 bytes
 
